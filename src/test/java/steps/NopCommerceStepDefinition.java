@@ -67,5 +67,6 @@ public class NopCommerceStepDefinition extends TestBase {
 
     @Then("user should be able to see the error messages {string}")
     public void userShouldBeAbleToSeeTheErrorMessages(String arg0) {
+
     }
 }

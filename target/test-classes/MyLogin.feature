@@ -8,11 +8,4 @@ Feature: Login test Application
     
     
 
-    #When user clicks the login button
-    #Then the title of the page should be "Dashboard / nopCommerce administration"
-    #When user attempt to log out
-    #Then the title of the page should be "Your store. Login"
-#
-    #Examples: 
-      #| email               | passwd |
-      #| admin@yourstore.com | admin  |
+
